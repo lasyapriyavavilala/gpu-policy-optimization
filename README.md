@@ -13,11 +13,6 @@ Built as a portfolio project targeting ML systems and inference optimization rol
 
 ---
 
-## Demo
-
-[![Watch the demo](assets/video_thumbnail.png)](YOUR_VIDEO_LINK_HERE)
-
----
 
 ## Results
 
@@ -31,11 +26,11 @@ Built as a portfolio project targeting ML systems and inference optimization rol
 | GPU collision map | 1M configurations, 2-link arm | **23.6x** over CPU (2.79ms vs 65.85ms) |
 
 <p align="center">
-  <img src="assets/roofline_bc_policy.png" width="600">
+  <img src="motion_planning/collision_map.png" width="600">
 </p>
 
 <p align="center">
-  <img src="assets/collision_map.png" width="800">
+  <img src="profiling/roofline_bc_policy.png" width="800">
 </p>
 
 ---
